@@ -1,13 +1,14 @@
 ## Hi there 👋
 # I'm Pournami Manthodi 👋
 
-### 📊 Aspiring Data Analyst | Data Science Enthusiast
+### 📊 Data Associate L1 Intern @Infotact Solutions | Aspiring Data Analyst | Data Science Enthusiast
 
 I'm passionate about turning data into meaningful insights and solving real-world problems through data analytics and visualization.
 
 ### 🚀 Currently Working On
 
-* **AtmoSync — Micro-Climate Analytics**
+* 💼 Working as a Data Associate L1 Intern at Infotact Solutions
+* 🔭 Building **AtmoSync — Micro-Climate Analytics**
 * Building hands-on projects in **Data Analytics & Data Science**
 * Strengthening my skills in **Python, SQL, and Machine Learning**
 

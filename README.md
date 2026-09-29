@@ -1,16 +1,24 @@
 ## Hi there 👋
+# I'm Pournami Manthodi 👋
 
-<!--
-**PournamiManthodi/PournamiManthodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | Data Science Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about turning data into meaningful insights and solving real-world problems through data analytics and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+
+* **AtmoSync — Micro-Climate Analytics**
+* Building hands-on projects in **Data Analytics & Data Science**
+* Strengthening my skills in **Python, SQL, and Machine Learning**
+
+### 🛠️ Tools & Technologies
+
+**Python** · **SQL** · **Excel** · **Power BI** · **Tableau** · **Pandas** · **NumPy** · **Matplotlib** · **Scikit-learn** · **Statistics** · **MachineLearning**
+
+### 📫 Let's Connect
+
+* **LinkedIn:** www.linkedin.com/in/pournamimanthodi
+* **Email:** pournamimanthodii@gmail.com
+
+💡 *Turning data into insights, one project at a time.*
+
